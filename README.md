@@ -2,7 +2,20 @@
 
 My personal Hyprland setup on Arch Linux with a cyberpunk red/pink theme.
 
-![Screenshot](docs/screenshot.png)
+## Screenshots
+
+### Desktop Overview
+![Desktop](docs/screenshots/m-arch-hypr-ss1.jpg)
+
+### Spotify Control
+![Spotify](docs/screenshots/m-arch-hypr-ss2.jpg)
+
+### Waybar
+![Waybar](docs/screenshots/m-arch-hypr-ss3.png)
+
+### Power Menu
+![Power Menu](docs/screenshots/m-arch-hypr-ss4.png)
+
 
 ## Features
 
