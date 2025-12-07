@@ -1,0 +1,8 @@
+# Ignore sensitive files
+*.log
+*.swp
+*~
+
+# Ignore temporary files
+.cache/
+tmp/

@@ -1,0 +1,45 @@
+[general]
+framerate = 60
+bars = 0
+autosens = 1
+overshoot = 0
+sensitivity = 100
+
+[input]
+method = pulse
+source = auto
+
+[output]
+method = ncurses
+channels = stereo
+mono_option = average
+reverse = 0
+raw_target = /dev/stdout
+data_format = binary
+bit_format = 16bit
+ascii_max_range = 1000
+bar_delimiter = 59
+
+[color]
+gradient = 1
+gradient_count = 6
+gradient_color_1 = '#EF3946'
+gradient_color_2 = '#F06292'
+gradient_color_3 = '#BA68C8'
+gradient_color_4 = '#9575CD'
+gradient_color_5 = '#7986CB'
+gradient_color_6 = '#00d9ff'
+
+[smoothing]
+noise_reduction = 77
+monstercat = 1
+waves = 0
+gravity = 100
+ignore = 0
+
+[eq]
+1 = 1
+2 = 1
+3 = 1
+4 = 1
+5 = 1
