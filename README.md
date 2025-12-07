@@ -71,4 +71,8 @@ chmod +x install.sh
 
 ## Credits
 
-Based on hypr-dots with custom modifications.
+Based on [HyprDots](https://github.com/prasanthrangan/hyprdots) by [Prasanth Rangan](https://github.com/prasanthrangan) with custom modifications and enhancements.
+
+## License
+
+This configuration inherits the GPL-3.0 license from HyprDots. See [LICENSE](LICENSE) for details.
