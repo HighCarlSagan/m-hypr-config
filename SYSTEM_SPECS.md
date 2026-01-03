@@ -1,0 +1,72 @@
+# System Specs - Generated Sat Jan  3 08:52:33 AM IST 2026
+
+## Kernel
+Linux m-arch 6.18.2-arch2-1 #1 SMP PREEMPT_DYNAMIC Thu, 18 Dec 2025 18:00:18 +0000 x86_64 GNU/Linux
+
+## Hardware
+inxi not installed
+
+## Monitors
+Monitor DP-3 (ID 0):
+	2560x1440@164.99899 at 0x0
+	description: Samsung Electric Company LS27CG51x H9JX900361
+	make: Samsung Electric Company
+	model: LS27CG51x
+	physical size (mm): 600x340
+	serial: H9JX900361
+	active workspace: 1 (1)
+	special workspace: 0 ()
+	reserved: 0 50 0 0
+	scale: 1.00
+	transform: 0
+	focused: no
+	dpmsStatus: 1
+	vrr: false
+	solitary: 0
+	solitaryBlockedBy: not opaque,subsurfaces
+	activelyTearing: false
+	tearingBlockedBy: next frame is not torn,user settings,missing candidate
+	directScanoutTo: 0
+	directScanoutBlockedBy: user settings,missing candidate
+	disabled: false
+	currentFormat: XRGB8888
+	mirrorOf: none
+	availableModes: 2560x1440@165.00Hz 2560x1440@144.00Hz 2560x1440@120.00Hz 2560x1440@59.95Hz 1920x1080@165.00Hz 1920x1080@143.98Hz 1920x1080@120.00Hz 1920x1080@119.88Hz 1920x1080@60.00Hz 1920x1080@60.00Hz 1920x1080@59.94Hz 1920x1080@50.00Hz 1680x1050@59.95Hz 1600x900@60.00Hz 1280x1024@75.03Hz 1280x1024@60.02Hz 1440x900@59.89Hz 1280x800@59.81Hz 1152x864@75.00Hz 1280x720@60.00Hz 1280x720@60.00Hz 1280x720@59.94Hz 1024x768@75.03Hz 1024x768@70.07Hz 1024x768@60.00Hz 832x624@74.55Hz 800x600@75.00Hz 800x600@72.19Hz 800x600@60.32Hz 800x600@56.25Hz 640x480@75.00Hz 640x480@72.81Hz 640x480@66.67Hz 640x480@60.00Hz 640x480@59.94Hz 720x400@70.08Hz 
+	colorManagementPreset: srgb
+	sdrBrightness: 1.00
+	sdrSaturation: 1.00
+	sdrMinLuminance: 0.20
+	sdrMaxLuminance: 80
+
+Monitor HDMI-A-1 (ID 1):
+	1920x1080@60.00000 at 2560x0
+	description: BNQ BenQ GW2785TC ETL1N02333SL0
+	make: BNQ
+	model: BenQ GW2785TC
+	physical size (mm): 600x340
+	serial: ETL1N02333SL0
+	active workspace: 15 (15)
+	special workspace: 0 ()
+	reserved: 0 50 0 0
+	scale: 1.00
+	transform: 0
+	focused: yes
+	dpmsStatus: 1
+	vrr: false
+	solitary: 0
+	solitaryBlockedBy: windowed mode,missing candidate
+	activelyTearing: false
+	tearingBlockedBy: next frame is not torn,user settings,missing candidate
+	directScanoutTo: 0
+	directScanoutBlockedBy: user settings,missing candidate
+	disabled: false
+	currentFormat: XRGB8888
+	mirrorOf: none
+	availableModes: 1920x1080@60.00Hz 1920x1080@74.97Hz 1920x1080@60.00Hz 1920x1080@59.94Hz 1920x1080@50.00Hz 1680x1050@59.88Hz 1600x900@60.00Hz 1280x1024@75.03Hz 1280x1024@60.02Hz 1280x800@59.91Hz 1152x864@75.00Hz 1280x720@60.00Hz 1280x720@60.00Hz 1280x720@59.94Hz 1280x720@50.00Hz 1024x768@75.03Hz 1024x768@60.00Hz 832x624@74.55Hz 800x600@75.00Hz 800x600@60.32Hz 720x576@50.00Hz 720x576@50.00Hz 720x480@60.00Hz 720x480@60.00Hz 720x480@59.94Hz 720x480@59.94Hz 640x480@75.00Hz 640x480@60.00Hz 640x480@59.94Hz 640x480@59.94Hz 720x400@70.08Hz 
+	colorManagementPreset: srgb
+	sdrBrightness: 1.00
+	sdrSaturation: 1.00
+	sdrMinLuminance: 0.20
+	sdrMaxLuminance: 80
+
+
