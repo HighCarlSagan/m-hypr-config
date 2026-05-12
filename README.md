@@ -237,7 +237,6 @@ GPL-3.0, inherited from HyprDots. See [LICENSE](LICENSE).
 
 ## Author
 
-**HighCarlSagan (Mayank Shrivastava)**
-[github.com/HighCarlSagan](https://github.com/HighCarlSagan)
+**Mayank S (HighCarlSagan)** — [GitHub @HighCarlSagan](https://github.com/HighCarlSagan) · [highcarlsagan.dev](https://highcarlsagan.dev)
 
 I use Arch btw.
