@@ -42,17 +42,17 @@ The end goal was a reproducible, one-command setup. If I ever blow up my install
 
 | # | Requirement | Outcome |
 |---|---|---|
-| 1 | Fully custom Arch Linux config (no mainstream distro defaults) | ✅ |
-| 2 | Hyprland on Wayland (no X11) | ✅ |
-| 3 | Cyberpunk red/pink theme across Waybar, Rofi, Kitty, notifications | ✅ |
-| 4 | One-command install on a fresh Arch box | ✅ |
-| 5 | Spotify control with album art popup | ✅ |
-| 6 | Calendar popup on clock click | ✅ |
-| 7 | System monitoring (CPU/RAM/GPU/temp) in the bar | ✅ |
-| 8 | OpenRGB integration to match desktop theme | ✅ |
-| 9 | Optimized keybindings (arrow-key window focus, no Vim bindings) | ✅ |
-| 10 | Dual-monitor support | ✅ |
-| 11 | Reproducible package list (pacman + AUR) | ✅ |
+| 1 | Fully custom Arch Linux config (no mainstream distro defaults) | Done |
+| 2 | Hyprland on Wayland (no X11) | Done |
+| 3 | Cyberpunk red/pink theme across Waybar, Rofi, Kitty, notifications | Done |
+| 4 | One-command install on a fresh Arch box | Done |
+| 5 | Spotify control with album art popup | Done |
+| 6 | Calendar popup on clock click | Done |
+| 7 | System monitoring (CPU/RAM/GPU/temp) in the bar | Done |
+| 8 | OpenRGB integration to match desktop theme | Done |
+| 9 | Optimized keybindings (arrow-key window focus, no Vim bindings) | Done |
+| 10 | Dual-monitor support | Done |
+| 11 | Reproducible package list (pacman + AUR) | Done |
 
 Remote access (SSH, Tailscale, remote lock from phone) was deliberately moved out of this config and into the [homelab](https://github.com/HighCarlSagan/Carls_Homelab) repo — it isn't a desktop concern, it's an infrastructure concern.
 
@@ -60,14 +60,14 @@ Remote access (SSH, Tailscale, remote lock from phone) was deliberately moved ou
 
 ## Features
 
-- 🎨 Cyberpunk red/pink color scheme across Waybar, Rofi, Kitty, notifications
-- 🎵 Spotify control with album art popup in Waybar
-- 📅 Calendar popup on clock click
-- 🖥️ System monitoring — CPU, RAM, GPU, temperature
-- 🎮 OpenRGB lighting control synced to the desktop theme
-- ⌨️ Arrow-key window focus and movement (no HJKL)
-- 🪟 Dual-monitor layout (2560×1440 primary + 1080p secondary)
-- 📦 One-command install with pacman + AUR package lists
+- Cyberpunk red/pink color scheme across Waybar, Rofi, Kitty, notifications
+- Spotify control with album art popup in Waybar
+- Calendar popup on clock click
+- System monitoring — CPU, RAM, GPU, temperature
+- OpenRGB lighting control synced to the desktop theme
+- Arrow-key window focus and movement (no HJKL)
+- Dual-monitor layout (2560×1440 primary + 1080p secondary)
+- One-command install with pacman + AUR package lists
 
 ---
 
@@ -111,7 +111,7 @@ The install script will:
 4. Copy `scripts/` to `~/.local/bin/` and mark executable
 5. Set the default wallpaper from `wallpapers/`
 
-> ⚠️ This is my personal config. It assumes Hyprland, an AMD GPU, and a few opinionated choices (Rofi over wofi, Kitty over Alacritty, Dolphin over Thunar). Fork it and adapt — don't expect it to work unchanged on every Arch box.
+> This is my personal config. It assumes Hyprland, an AMD GPU, and a few opinionated choices (Rofi over wofi, Kitty over Alacritty, Dolphin over Thunar). Fork it and adapt — don't expect it to work unchanged on every Arch box.
 
 ---
 
